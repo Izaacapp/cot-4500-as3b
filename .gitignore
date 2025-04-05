@@ -1,0 +1,9 @@
+# Ignore Python cache
+**/__pycache__/
+
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore macOS metadata files
+.DS_Store
