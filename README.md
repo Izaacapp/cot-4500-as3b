@@ -2,6 +2,7 @@
 
 ## Structure
 
+```
 cot-4500-as3b/
 ├── README.md
 ├── requirements.txt
@@ -13,6 +14,7 @@ cot-4500-as3b/
 ├── init.py
 └── test_assignment_3.py
 
+```
 ## Requirements
 - Python 3.11+
 - NumPy
@@ -28,4 +30,5 @@ python src/main/assignment_3.py
 Run the Tests
 
 pytest
+
 
